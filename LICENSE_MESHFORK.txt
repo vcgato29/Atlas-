@@ -1,0 +1,16 @@
+MeshFork License v1.0 (based on DC BY principles)
+
+This license applies to the continuation, remix, and redeployment of the Dynebolic, Netsukuku, and Moin-based systems under Victor J. Corral’s custodianship.
+
+You are free to:
+- Use, study, and redistribute the code and configurations
+- Modify, extend, or fork the system under your own network or domain
+- Deploy it on legacy, modern, or embedded hardware including Xbox nodes
+
+Under the following conditions:
+- You must acknowledge the ancestry of the system, including Dyne.org, FreakNet, and the originating nonprofit entity registered under KvK.nl no. 34237525.
+- You must include this license and the accompanying manifesto in all redistributed versions.
+- Derivative projects must also follow principles of mesh freedom, decentralization, and cultural access.
+
+Victor J. Corral  
+2025
