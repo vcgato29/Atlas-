@@ -1,0 +1,20 @@
+
+Victor José Corral – Historical Artifact Log Affidavit
+Date: 2025-05-19T22:54:45.646456Z
+
+This archive contains original photographic documentation of a period in 2018
+where I, unintentionally and without malicious intent, accessed core authentication 
+modules on macOS systems related to social media login mechanisms (Facebook, LinkedIn, iCloud, etc.).
+
+These screenshots were taken during a phase of experimentation using Android tools and terminal interfaces. 
+No data was sold, leaked, or weaponized.
+
+I now preserve this archive strictly for historical and ethical documentation.
+
+Archive file: Victor_Historical_Artifact_Log.zip
+SHA256 hash: d3110ddea6a554fdb0a2d680983606da563de608ce0acf6c1755f2265c6a2939
+
+This statement is made in good faith and cryptographically timestamped.
+
+Signed,
+Victor José Corral
